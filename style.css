@@ -1,6 +1,6 @@
 body {
-    color: red;
-    background: skyblue;
+    color: blue;
+    background: red;
 }
 
 .heading {
@@ -9,7 +9,7 @@ body {
 }
 
 #camera {
-    border: 2px dashed green;
+    border: 2px dashed purple;
     width: 350px;
     height: 300px;
 }
@@ -17,5 +17,5 @@ body {
 .name_of_objects,
 #result_object_name,
 #result_object_accuracy {
-    color: red;
+    color: blue;
 }
